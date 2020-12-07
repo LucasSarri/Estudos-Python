@@ -44,6 +44,11 @@ Estudos gerais de Python desde o início
     while condição:
         //Bloco de códigos
 
+5 Comandos
+    break serve para interromper um laço de repetição, seja um for ou while.
+    pass não faz nada, pode ser usada quando a sintaxe exige um comando mas a semântica não requer nenhuma ação.
+    def inicia a definição de uma função, seguida pelo nome da função e sua lista de parâmetros.
+    result retorna o valor de uma função
 
 Notas Importantes
     Suporte nativo a números complexos usando j ou J para indicar a parte imaginária (3+5J).
