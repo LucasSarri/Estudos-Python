@@ -1,3 +1,6 @@
+--Print
+    print('A soma vale ',s) //apresentação padrão
+    print('A soma vale {}'.format(s)) //apresentação nova
 --IF
 x = int(input("Entre com um inteiro: "))
 if x < 0:

@@ -56,3 +56,9 @@ Notas Importantes
     Strings podem ser concatenadas com o operador + e repetidas com *.
     Não é utilizado chaves ou seja identação é tudo
     O comando for faz as iterações sobre os itens de qualquer sequência (Lista ou String) na sequência que aparecer.
+
+    Tipos primitivos
+        int: é o tipo de variável que recebe números inteiros
+        float: é o tipo de variável que recebe números reais
+        bool: é o tipo de variável que recebe somente os valores verdadeiro (True) e falso (False)
+        str: tipo de variável que recebe textos
