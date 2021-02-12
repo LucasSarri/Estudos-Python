@@ -17,6 +17,12 @@ Estudos gerais de Python desde o início
     Igual ==
     Diferente !=
 
+    -- Ordem de Precedência
+    ()
+    **
+    *,/,//,%
+    +,-
+
 2 Variáveis
     Int (2,3,4 e etc).
     Float (4,3; 5,5; 9,8 e etc).
@@ -62,3 +68,13 @@ Notas Importantes
         float: é o tipo de variável que recebe números reais
         bool: é o tipo de variável que recebe somente os valores verdadeiro (True) e falso (False)
         str: tipo de variável que recebe textos
+
+Manipulação de Strings 
+
+len() - Retorna o tamanho de uma string - teste = 'Apostila de Python' len(teste)
+
+capitalize() - Retorna a string com a primeira letra maiúscula - teste = 'python' a.capitalize()
+
+count() - Informa quantas vezes um caracter ou sequência aparecem em uma string - b = 'Linguagem Python' b.count(b)
+
+startswith() - Verifica se uma string começa com determinada sequência - c = 'Python' c.startswith('Py')
